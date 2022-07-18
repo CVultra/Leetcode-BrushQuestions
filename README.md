@@ -9,7 +9,7 @@ Some records about writing questions by yourself, come on!
 |    4       |寻找两个正序数组的中位数|  https://juejin.cn/post/7119297899611029517     |
 |    5       |最长回文子串           | https://juejin.cn/post/7119678153697525774/      |
 |    6       |z字形变换           |   https://juejin.cn/post/7121106990624931876/    |
-|    8       |最长回文子串           |       |
+|    8       |整数反转            |  https://juejin.cn/post/7121501577860349989/     |
 |    9       |最长回文子串           |       |
 |    10       |最长回文子串           |       |
 |    11       |最长回文子串           |       |
