@@ -2,8 +2,8 @@
 Some records about writing questions by yourself, come on!
 | 序号       |   名称       |  代码地址     |
 |:----------:|:-------------:      |:------   |
-| 1          |  冒泡排序            |  |
-| 2          |  快速排序            |  |
+| 1          |  十大排序之冒泡排序            |  |
+| 2          |  十大排序之快速排序            |  |
 
 
 | 题号       |   Leetcode题目       |  代码     |
